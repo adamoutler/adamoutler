@@ -1,6 +1,6 @@
-# 👨‍💻 Adam Outler - Developer, Security Engineer & Innovator
+# 👨‍💻 Adam Outler - Embedded Security Professional, Developer & Innovator
 
-Welcome to my GitHub page! I’m Adam Outler, a seasoned security engineer and developer with a focus on mobile security, open-source contributions, and home automation. Here, you'll find a collection of my projects, contributions, and tools that help empower developers and enthusiasts in the community.
+Welcome to my GitHub page! I’m Adam Outler, an embedded security professional and developer with a focus on open-source contributions, home automation, and IoT. Here, you'll find a collection of my projects, contributions, and tools that help empower developers and enthusiasts in the community.
 
 ### 📂 Featured Projects
 
@@ -11,7 +11,7 @@ Welcome to my GitHub page! I’m Adam Outler, a seasoned security engineer and d
   Projects that enhance monitoring and control for devices, including my work on PiKVM for temperature monitoring, granular fan control, and custom dashboards in Home Assistant.
 
 - **Security & Networking**  
-  A collection of tools and utilities that focus on network security, data protection, and efficient workflows with Docker, Jenkins, and more. You’ll find insights and tools for secure development and deployment, along with best practices for infrastructure management.
+  A collection of tools and utilities that focus on network security, data protection, and efficient workflows with Docker, Jenkins, and more. Due to contractual obligations, I cannot post about mobile security but have extensive expertise in embedded security.
 
 ### 🌐 Connect with Me
 
@@ -42,7 +42,7 @@ Welcome to my GitHub page! I’m Adam Outler, a seasoned security engineer and d
   Integrations for complex setups with custom sensors, device tracking, and event triggers for complete control.
 
 - **Security**  
-  Mobile security and reverse engineering for Android and IoT, providing tools and guides for a secure ecosystem.
+  Embedded security, reverse engineering for IoT, and tools for creating a secure ecosystem.
 
 ### 🔗 Links & Resources
 
