@@ -36,7 +36,7 @@ Welcome to my GitHub page! I’m Adam Outler, an embedded security professional 
   I run a network of Raspberry Pi servers for IoT automation, car systems, and smart home announcements, creating a cohesive environment that enables precise control over multiple devices and tasks.
 
 - **Containers & Orchestration**  
-  I prefer using Docker for containerized development, including tools like [Ollama and Open WebUI](https://github.com/adamoutler/ollama-open-webui) on my custom setup.
+  I prefer using Docker for containerized development, including tools like Ollama and Open WebUI. on my custom setup.
 
 - **Home Assistant & IoT**  
   Integrations for complex setups with custom sensors, device tracking, and event triggers for complete control.
@@ -49,7 +49,5 @@ Welcome to my GitHub page! I’m Adam Outler, an embedded security professional 
 Explore more of my work and stay updated with my latest projects:
 
 - **[GitHub](https://github.com/AdamOutler)**: Source code, issues, and releases for my public projects.
-- **[Anycubic & 3D Printing](https://github.com/adamoutler/AnycubicIntegration)**: Documentation and integration for Anycubic Mono M5s, including automation features.
-- **[Device Management Tools](https://github.com/adamoutler/DeviceManager)**: Solutions for device management, from certificate handling to OS update tracking.
-
+- **Anycubic & 3D Printing**: Documentation and integration for Anycubic Mono M5s, including automation features.
 ---
