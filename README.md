@@ -1,53 +1,56 @@
-# 👨‍💻 Adam Outler - Embedded Security Professional, Developer & Innovator
+# 🛠️ Adam Outler
 
-Welcome to my GitHub page! I’m Adam Outler, an embedded security professional and developer with a focus on open-source contributions, home automation, and IoT. Here, you'll find a collection of my projects, contributions, and tools that help empower developers and enthusiasts in the community.
+### `root@human:~$ status --power`
 
-### 📂 Featured Projects
+> "Architecting resilience through distributed intelligence and hardened silicon."
 
-- **Home Assistant Integrations**  
-  From custom device control to innovative integration cards, my Home Assistant projects aim to simplify smart home management and improve device interaction. Explore automation scripts, integrations, and API examples.
-
-- **PiKVM & Smart Device Monitoring**  
-  Projects that enhance monitoring and control for devices, including my work on PiKVM for temperature monitoring, granular fan control, and custom dashboards in Home Assistant.
-
-- **Security & Networking**  
-  A collection of tools and utilities that focus on network security, data protection, and efficient workflows with Docker, Jenkins, and more. Due to contractual obligations, I cannot post about mobile security but have extensive expertise in embedded security.
-
-### 🌐 Connect with Me
-
-- **[AdamOutler.com](http://adamoutler.com)**  
-  My personal website, hosted locally, with more information about my work and ongoing projects.
-
-- **[git.adamoutler.com](http://git.adamoutler.com)**  
-  A private repository for select projects, tools, and code samples. For access or collaborations, please reach out!
-
-- **[HackedYour.info](http://hackedyour.info)**  
-  A paste bin for quick code sharing, debugging, and collaboration.
-
-### 🔧 Tools & Technologies
-
-- **High-Performance Servers**  
-  My setup includes a powerful VM server with dual GPUs, dedicated to handling AI workloads and virtual machines, alongside an HTTP/gateway server.
-
-- **Synology NAS & Docker**  
-  The Synology NAS serves as the backbone for my Jenkins core, with worker nodes distributed across other servers to handle large workloads. The NAS also supports various Docker containers for self-hosted services.
-
-- **IoT & Raspberry Pi Network**  
-  I run a network of Raspberry Pi servers for IoT automation, car systems, and smart home announcements, creating a cohesive environment that enables precise control over multiple devices and tasks.
-
-- **Containers & Orchestration**  
-  I prefer using Docker for containerized development, including tools like Ollama and Open WebUI. on my custom setup.
-
-- **Home Assistant & IoT**  
-  Integrations for complex setups with custom sensors, device tracking, and event triggers for complete control.
-
-- **Security**  
-  Embedded security, reverse engineering for IoT, and tools for creating a secure ecosystem.
-
-### 🔗 Links & Resources
-
-Explore more of my work and stay updated with my latest projects:
-
-- **[GitHub](https://github.com/AdamOutler)**: Source code, issues, and releases for my public projects.
-- **Anycubic & 3D Printing**: Documentation and integration for Anycubic Mono M5s, including automation features.
 ---
+
+### 🧠 The Core Logic
+
+I operate at the intersection of **Security, Hardware, and Agentic AI**. My work has evolved from breaking Android bootloaders to building autonomous "digital immune systems." I build ecosystems that handle the manual toil of security auditing and network management at scale.
+
+*   **Current Mission:** Bridging the gap between LLMs and physical infrastructure via **Agentic Automation**.
+*   **The Philosophy:** If security isn't in the silicon, it doesn't exist. I treat hardware assumptions as suggestions and proprietary protocols as puzzles.
+*   **The Goal:** Systems that don't just suggest solutions, but possess the autonomous capability to monitor, defend, and self-correct via the **Model Context Protocol (MCP)**.
+
+---
+
+### 🏆 Foundational Exploits (The XDA Era)
+*Before the pivot to enterprise architecture, I spent 5 years as an **Elite Recognized Developer** at XDA-Developers (11M+ members).*
+
+*   **[JOdin3](https://github.com/AdamOutler/android-casual):** The first cross-platform, web-based replacement for Samsung's proprietary Odin tool.
+*   **[CASUAL](https://github.com/AdamOutler/android-casual):** An industry-standard automation framework for Android exploitation.
+*   **The UnBrickable Mod:** Pioneered hardware-level recovery for "hard-bricked" devices, restoring millions in hardware value to the community.
+
+---
+
+### ⚡ The Stack & Environment
+
+I live in the terminal, working across **BASH, Python, and Java**. My environment is built for high-concurrency AI workloads and secure, low-level hardware interaction.
+
+*   **The AI Layer:** Massive local compute power with **>180GB of VRAM** distributed across hardened clusters. I specialize in running local models and RAG systems that detect anomalies in real-time.
+*   **Connectivity:** A hardened web of encrypted nodes designed for high availability and zero-trust access.
+*   **Active Signal:** Core Maintainer at **[NetAlertX](https://github.com/netalertx/NetAlertX)**, engineering the first AI-driven network defense layer with native MCP support.
+
+---
+
+### 🛠️ Environment Manifest
+
+```bash
+$ neofetch --user adamoutler
+-----------------------------------------------------------
+Languages:   BASH | Python | Java | C-variants
+Compute:     Distributed AI Clusters | >180GB VRAM
+Networking:  Secure Tunnels | Zero-Trust Mesh | NetAlertX
+Hardware:    Logic Analyzers | SLA Printing | Soldering Iron
+Companion:   Meatloaf.exe (80% Bully, 100% Ground-dog)
+Status:      Fixing things that aren't broken yet.
+-----------------------------------------------------------
+```
+
+---
+
+### 📡 Direct Signal
+
+[**interview.adamoutler.com**](https://interview.adamoutler.com)
