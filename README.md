@@ -27,7 +27,7 @@ I operate at the intersection of **Security, Hardware, and Agentic AI**. My work
 
 ### ⚡ The Stack & Environment
 
-I live in the terminal, working across **BASH, Python, and Java**. My environment is built for high-concurrency AI workloads and secure, low-level hardware interaction.
+I live in the terminal, working across **BASH, Java, C, and whatever the LLMs like**. My environment is built for high-concurrency AI workloads and secure, low-level hardware interaction.
 
 *   **The AI Layer:** Massive local compute power with **>180GB of VRAM** distributed across hardened clusters. I specialize in running local models and RAG systems that detect anomalies in real-time.
 *   **Connectivity:** A hardened web of encrypted nodes designed for high availability and zero-trust access.
