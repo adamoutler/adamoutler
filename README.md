@@ -8,7 +8,7 @@
 
 ### 🧠 The Core Logic
 
-I operate at the intersection of **Security, Hardware, and Agentic AI**. My work has evolved from breaking Android bootloaders to building autonomous "digital immune systems." I build ecosystems that handle the manual toil of security auditing and network management at scale.
+I operate at the intersection of **Security, Automation, and Agentic AI**. My work has evolved from breaking Android bootloaders to building autonomous "digital immune systems." I build ecosystems that handle the manual toil of security auditing and network management at scale.
 
 *   **Current Mission:** Bridging the gap between LLMs and physical infrastructure via **Agentic Automation**.
 *   **The Philosophy:** If security isn't in the silicon, it doesn't exist. I treat hardware assumptions as suggestions and proprietary protocols as puzzles.
